@@ -17,10 +17,10 @@ darkmode: never
 # Social links
 # twitter_username: facespics
 github_username:  supersophie15
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
 # instagram_username: jameswgrant
 linkedin_username: sujeong sophie park
 # xing_username: jekyll
@@ -55,6 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>marketing strategy</mark> and <mark>Business Analytics</mark>
 
 content:
+
 #   - title: Experience # Title for the section
 #     layout: list # Type of content section (list/text)
 #     content:
