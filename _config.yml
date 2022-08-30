@@ -55,19 +55,19 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>marketing strategy</mark> and <mark>Business Analytics</mark>
 
 content:
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: 프리랜서 마케터
-        # link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: 사업전략 및 퍼포먼스 마케팅
-        caption: January 2022 - Present
-        quote: >
-          플랫폼 Growth 전략, 마케팅 전략, 퍼포먼스 마케팅 컨설팅 및 실무운영
-        description: | # this will include new lines to allow paragraphs
-            모루게따Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+#   - title: Experience # Title for the section
+#     layout: list # Type of content section (list/text)
+#     content:
+#       - layout: left
+#         title: 프리랜서 마케터
+#         # link: boringcompany.com
+#         # link_text: boringcompany.com
+#         sub_title: 사업전략 및 퍼포먼스 마케팅
+#         caption: January 2022 - Present
+#         quote: >
+#           플랫폼 Growth 전략, 마케팅 전략, 퍼포먼스 마케팅 컨설팅 및 실무운영
+#         description: | # this will include new lines to allow paragraphs
+#             모루게따Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
