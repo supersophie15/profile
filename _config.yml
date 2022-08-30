@@ -1,5 +1,5 @@
 # Site
-repository: supersophie15/profile
+repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: 박수정 Sujeong Park
-title: Business Analyst / Growth Marketer
+title: Business Analyst Growth Marketer
 email: sujeong.bak@gmail.com
 website: www.supersophie15.github.io/profile
 
